@@ -1,0 +1,50 @@
+.form-container{
+  margin-left: 20%;
+  margin-top: 50px;
+  width: 50vw;
+  display: flex;
+  justify-content: space-around;
+  padding: 40px 50px;
+  background-color: #efaf7b;
+  border-radius: 20px;
+}
+.form-container >form >p{
+  margin: 0px;
+  
+}
+.form-container >form >input{
+  margin-right: 7px;
+  
+}
+
+.listContainer {
+  margin: 20px  auto 0px auto;
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+.elementContainer{
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+.elementContainer >p{
+  padding: 20px;
+  padding-right: 20px;
+  width: 97%;
+  border: 2px solid black;
+}
+.heading{
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+.heading >p {
+  padding: 20px;
+  padding-right: 20px;
+  width: 97%;
+  border: 2px solid black; 
+}
