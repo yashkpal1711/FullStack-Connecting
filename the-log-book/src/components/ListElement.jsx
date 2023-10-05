@@ -3,6 +3,7 @@ import "../App.css";
 
 const ListElement = ({ user, handleDelete }) => {
   return (
+    
     <div>
       <div className="elementContainer">
         <p>{user.username} </p>
