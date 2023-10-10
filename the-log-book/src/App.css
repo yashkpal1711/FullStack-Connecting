@@ -37,6 +37,16 @@
   width: 97%;
   border: 2px solid black;
 }
+.elementContainer > button{
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 5px;
+}
+.elementContainer >a> button{
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 5px;
+}
 .heading{
   width: 90%;
   display: flex;
